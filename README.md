@@ -1,71 +1,3 @@
-## **["Scroll down..."](#output_start)**
-```cpp
-class OppositeNormal : public DisplayableObject
-{
-private:
-    std::string name;
-
-    std::vector<std::string> skilled_in;
-    std::vector<std::string> able_to_work_with;
-    std::vector<std::string> interested_in;
-    std::vector<std::string> project_worked_with;
-    std::vector<std::string> project_worked_on;
-
-    // Being sneaky...
-    void DisplayBaseInfo();
-public:
-    OppositeNormal() : name("OPPOSITE NORMAL")
-    {
-        skilled_in.push_back("C");
-        skilled_in.push_back("C++");
-        skilled_in.push_back("C#");
-        skilled_in.push_back("Python");
-        skilled_in.push_back("Java");
-        skilled_in.push_back("Kotlin");
-        skilled_in.push_back("Godot Engine");
-        skilled_in.push_back("Aseprite");
-
-        able_to_work_with.push_back("OpenGL");
-        able_to_work_with.push_back("Unreal Engine");
-        able_to_work_with.push_back("Blender");
-        able_to_work_with.push_back("Qt");
-        able_to_work_with.push_back("Android");
-
-        interested_in.push_back("Vulkan");
-        interested_in.push_back("Linux");
-        interested_in.push_back("Windows");
-        interested_in.push_back("Rust");
-        interested_in.push_back("GitHub");
-
-        project_worked_with.push_back("EaseOut");
-        project_worked_with.push_back("Does god roll the dice?");
-        project_worked_with.push_back("HumanAbove");
-        
-        project_worked_on.push_back("CosGraphics");
-        project_worked_on.push_back("ProjectFG");
-    }
-    virtual ~OppositeNormal() override {}
-
-    virtual void Display() final override
-    {
-        DisplayTitle(name);
-        DisplayBaseInfo();
-        DisplayBlock("Skilled in...", skilled_in);
-        DisplayBlock("Able to work with...", able_to_work_with);
-        DisplayBlock("Interested in...", interested_in);
-        DisplayBlock("Projects I've been working with...", project_worked_with);
-        DisplayBlock("Projects I'm working on...", project_worked_on);
-    }
-}
-
-int main()
-{
-    OppositeNormal opposite_normal;
-    opposite_normal.Display();
-    return 0;
-}
-```
-
 <h1 align="center"> <div id = "output_start"> <img src="./assets/name.png" height="90"> <img src="./assets/icon-round.png" height="25px"></div></font> </h1>
 
 <i>Undergrad student currently majoring in Computer Science and Mathematics. Interested in computer graphics, computer physics and game development. Likes to study with fundamental technologies with software development.</I>
@@ -106,12 +38,4 @@ int main()
 <a href = "https://on-gaming-studio.itch.io/above-us">
 <img src="https://img.itch.zone/aW1hZ2UvMTA4NDg4My82MjIxNTkzLnBuZw==/347x500/U7TO94.png" height="125px"></a>
 
-
-<h2 align="center"><i>Projects I'm working on...</i></h2>
-
-<a href="https://github.com/OppositeNor/cos-graphics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=OppositeNor&repo=cos-graphics" height="120px"></a>
-<a href="https://github.com/OppositeNor/cos-graphics"> <img src="https://github.com/OppositeNor/cos-graphics/blob/main/assets/cos-graphics-white-with-background-high-res.png?raw=true" height="120"></a>
-
-<a href="https://github.com/nugamestudioclub/Project-FG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nugamestudioclub&repo=Project-FG"> Project FG </a>
 
