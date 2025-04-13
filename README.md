@@ -1,6 +1,6 @@
 <h1 align="center"> <div id = "output_start"> <img src="./assets/name.png" height="90"> <img src="./assets/icon-round.png" height="25px"></div></font> </h1>
 
-<i>Undergrad student currently majoring in Computer Science and Mathematics. Interested in computer graphics, computer physics and game development. Likes to study with fundamental technologies with software development.</I>
+<i>Looking for intern</i>
 
 <h2 align="center"><i>Skilled in...</i></h2>
 
