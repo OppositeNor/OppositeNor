@@ -40,11 +40,11 @@
 </p>
 
 <p align="center">
+    <a href = https://github.com/OppositeNor/white-bird-engine-core>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OppositeNor&repo=white-bird-engine-core&theme=dark" height=130>
+    </a>
     <a href = https://github.com/OppositeNor/last-opengl-project>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=OppositeNor&repo=last-opengl-project&theme=dark" height=130>
-    </a>
-    <a href = https://github.com/OppositeNor/cos-graphics>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OppositeNor&repo=cos-graphics&theme=dark" height=130>
     </a>
 </p>
 
