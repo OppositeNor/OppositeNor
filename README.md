@@ -15,8 +15,8 @@
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OppositeNor&layout=compact&theme=dark" height=180>
-<img src="https://github-readme-stats.vercel.app/api?username=OppositeNor&show_icons=true&theme=radical" height=180>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OppositeNor&layout=compact&theme=dark" height="180px">
+<img src="https://github-readme-stats.vercel.app/api?username=OppositeNor&show_icons=true&theme=radical" height="180px">
 </p>
 
 <i>Looking for intern</i>
@@ -41,10 +41,10 @@
 
 <p align="center">
     <a href = https://github.com/OppositeNor/white-bird-engine-core>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OppositeNor&repo=white-bird-engine-core&theme=dark" height=130>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OppositeNor&repo=white-bird-engine-core&theme=dark" height="130px">
     </a>
     <a href = https://github.com/OppositeNor/last-opengl-project>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OppositeNor&repo=last-opengl-project&theme=dark" height=130>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OppositeNor&repo=last-opengl-project&theme=dark" height="130px">
     </a>
 </p>
 
