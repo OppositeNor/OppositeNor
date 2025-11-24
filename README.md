@@ -1,6 +1,6 @@
 <h1 align="center"> <div id = "output_start"> <img src="./assets/name.png" height="90"> <img src="./assets/icon-round.png" height="25px"></div></font> </h1>
 
-![Welcome](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b)
+![Welcome](./assets/img1.gif)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -22,7 +22,7 @@
 <i>Looking for intern</i>
 
 <p align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6357eb37-3a0e-4efe-b015-ce8b14e910d6">
+    <img src="./assets/img2.gif">
 </p>
 
 <h2 align="center"><i>Projects</i></h2>
