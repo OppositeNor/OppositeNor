@@ -1,5 +1,11 @@
 <h1 align="center"> <div id = "output_start"> <img src="./assets/name.png" height="90"> <img src="./assets/icon-round.png" height="25px"></div></font> </h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ![Welcome](./assets/img1.gif)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -13,11 +19,6 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OppositeNor&layout=compact&theme=dark" height="180px">
-<img src="https://github-readme-stats.vercel.app/api?username=OppositeNor&show_icons=true&theme=radical" height="180px">
-</p>
 
 <i>Looking for intern</i>
 
@@ -36,15 +37,6 @@
     </a>
     <a href = "https://on-gaming-studio.itch.io/above-us">
         <img src="https://img.itch.zone/aW1hZ2UvMTA4NDg4My82MjIxNTkzLnBuZw==/347x500/U7TO94.png" height="125px">
-    </a>
-</p>
-
-<p align="center">
-    <a href = https://github.com/OppositeNor/white-bird-engine-core>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OppositeNor&repo=white-bird-engine-core&theme=dark" height="130px">
-    </a>
-    <a href = https://github.com/OppositeNor/last-opengl-project>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=OppositeNor&repo=last-opengl-project&theme=dark" height="130px">
     </a>
 </p>
 
