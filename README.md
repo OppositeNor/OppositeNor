@@ -18,6 +18,13 @@
     <img src="./assets/img2.gif">
 </p>
 
+<h2 align="center"><i>Portfolio</i></h2>
+
+<p align="center">
+    <img src="./assets/svo.png">
+    <img src="./assets/animation_demo_image.png">
+</p>
+
 <h2 align="center"><i>Projects</i></h2>
 
 <p align="center">
@@ -31,4 +38,3 @@
         <img src="https://img.itch.zone/aW1hZ2UvMTA4NDg4My82MjIxNTkzLnBuZw==/347x500/U7TO94.png" height="125px">
     </a>
 </p>
-
