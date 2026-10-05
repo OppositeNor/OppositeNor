@@ -14,10 +14,6 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
-<p align="center">
-    <img src="./assets/img2.gif">
-</p>
-
 <h2 align="center"><i>Portfolio</i></h2>
 
 <p align="center">
@@ -41,4 +37,8 @@
     <a href = "https://on-gaming-studio.itch.io/above-us">
         <img src="https://img.itch.zone/aW1hZ2UvMTA4NDg4My82MjIxNTkzLnBuZw==/347x500/U7TO94.png" height="125px">
     </a>
+</p>
+
+<p align="center">
+    <img src="./assets/img2.gif">
 </p>
