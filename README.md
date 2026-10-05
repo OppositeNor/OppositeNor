@@ -22,7 +22,11 @@
 
 <p align="center">
     <img src="./assets/svo.png">
+    <i>Sparse voxel octree</i>
+    <img src="./assets/pixel_sorting.png">
+    <i>Radix pixel sort</i>
     <img src="./assets/animation_demo_image.png">
+    <i>Skeletal animation</i>
 </p>
 
 <h2 align="center"><i>Projects</i></h2>
