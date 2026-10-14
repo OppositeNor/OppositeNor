@@ -19,9 +19,9 @@
 <p align="center">
     <img src="./assets/svo.png">
     <i>Sparse voxel octree</i><br>
-    <img src="./assets/pixel_sorting_dynamic_2.gif">
-    <img src="./assets/pixel_sorting.png" height="210px">
-    <img src="./assets/pixel_sorting_dynamic_1.gif" height="210px"><br>
+    <img src="./assets/pixel_sorting_dynamic_2.gif"><br>
+    <img src="./assets/pixel_sorting.png" height="200px">
+    <img src="./assets/pixel_sorting_dynamic_1.gif" height="200px"><br>
     <i>Radix pixel sorting</i>
     <img src="./assets/animation_demo_image.png">
     <i>Skeletal animation</i>
