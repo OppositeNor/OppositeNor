@@ -18,9 +18,11 @@
 
 <p align="center">
     <img src="./assets/svo.png">
-    <i>Sparse voxel octree</i>
-    <img src="./assets/pixel_sorting.png">
-    <i>Radix pixel sort</i>
+    <i>Sparse voxel octree</i><br>
+    <img src="./assets/pixel_sorting_dynamic_2.gif">
+    <img src="./assets/pixel_sorting.png" height="210px">
+    <img src="./assets/pixel_sorting_dynamic_1.gif" height="210px"><br>
+    <i>Radix pixel sorting</i>
     <img src="./assets/animation_demo_image.png">
     <i>Skeletal animation</i>
 </p>
@@ -37,8 +39,4 @@
     <a href = "https://on-gaming-studio.itch.io/above-us">
         <img src="https://img.itch.zone/aW1hZ2UvMTA4NDg4My82MjIxNTkzLnBuZw==/347x500/U7TO94.png" height="125px">
     </a>
-</p>
-
-<p align="center">
-    <img src="./assets/img2.gif">
 </p>
